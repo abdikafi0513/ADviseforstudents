@@ -1,0 +1,10 @@
+#rows {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
